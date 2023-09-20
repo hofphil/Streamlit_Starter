@@ -1,0 +1,16 @@
+{
+    "version": "0.1.0",
+    "configurations": [
+        {
+            "name": "debug streamlit",
+            "type": "python",
+            "request": "launch",
+            "program": "/Users/philipp.hofmeyer/AppData/Roaming/Python/Python39/Scripts",  // /home/xx/tmp/venv/bin/streamlit",
+            "args": [
+                "run",
+                "run.py",
+                "/Users/philipp.hofmeyer/OneDrive - BioNTech SE/Dokumente/01 KM/Hackathon/Streamlit_Starter/streamlit_app.py"
+            ]
+        }
+    ]
+    }
